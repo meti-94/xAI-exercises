@@ -12,6 +12,8 @@ Predictive Analysis C: `.\Predictive Analysis\Features Combination`
 
 Predictive Analysis D:`.\Predictive Analysis\Classic Classifiers`
 
+Predictive Analysis E:`.\Predictive Analysis\SHAP`
+
 Descriptive Analysis: `.\Descriptive Analysis`
 
 At the time of implementation, it has been tried to use as many different approaches as possible to show the familiarity of the coder with different paradigms. It should be noted that due to the restrictions on Iranian programmers, the possibility of using **Kaggle** was not available to me, and to use **Google Colab**, I only had to use the free mode because it was not possible to pay.
