@@ -1,4 +1,4 @@
-### **SVM and XGBoost **
+### **SVM and XGBoost**
 In this part, the image-text multimodal model is used as an embedding. First, the model is trained using the training set. Then the part related to the model classifier is cut. After that, the samples are once again fed to the trained model to create a 2560-dimensional vector for each image and text (rows of data). In the last step, SVM and gradient classifiers are used to classify vectors.
 
 **In the XGboost-SVM.ipynb:**
