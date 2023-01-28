@@ -9,6 +9,7 @@ In this exercise:
 
 **Descriptive analysis results:** At first, I expected the distribution of some statistical characteristics to be different between fake and original news, such as the number of unique words, or the average length of the title, but the most unexpected thing for me was that the author has a very important in the time of classifying the news. For example, of about 600 writers who wrote more than 5 news, only 3 used a combination of two classes.
 
+![Visualization](./tsne.png "Visualization")
 
 **In the EDA.ipynb:**
 1. Downloading the dataset 
