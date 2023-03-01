@@ -1,4 +1,4 @@
-# CodingQuestions
+# xAI-exercises
 
 
 This repository is created to answer a set of programming exercises, and its structure is such that for the first question (Predictive analysis), each part has its own separate folder, and for the second question, only one folder has been created collectively.
